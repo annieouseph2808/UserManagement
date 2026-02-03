@@ -1,4 +1,4 @@
-## User Management System (Django)
+## User Management System
 
 ## 📌 Project Overview
 
